@@ -1,4 +1,4 @@
-# hello-world
+# What-is-popping-world 
 Getting used to github
 
 Uhh I like to learn about different areas of study and other peoples hobbies, I suppose you can say im a nerd, 
